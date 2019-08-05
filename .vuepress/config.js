@@ -18,6 +18,7 @@ module.exports = {
         '/',
         '/fundamentos/',
         '/babel/',
+        '/parcel-js/',
       ]
   }
  
